@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Greg (Grzegorz)<br>Chojnowski, Ph.D.
+title: Greg (Grzegorz) Chojnowski, Ph.D.
 email: gchojnowski@gmail.com
 description: Macromolecules, big data, and machine learning
 avatar: "/data/gchojnowski_1k_v2.jpg"
