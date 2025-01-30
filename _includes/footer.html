@@ -12,9 +12,14 @@
             {% include icon-github.html username=site.github_username %}
           {% endif %}
 
-          {% if site.twitter_username %}
-            {% include icon-twitter.html username=site.twitter_username %}
+          {% if site.bluesky_username %}
+            {% include icon-bluesky.html username=site.bluesky_username %}
           {% endif %}
+
+         {% if site.scholar_username %}
+            {% include icon-scholar.html username=site.scholar_username %}
+          {% endif %}
+
         </ul>
       </div>
       

@@ -24,7 +24,9 @@ description: Macromolecules, big data, and machine learning
 avatar: "/data/gchojnowski_1k_v2.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 
-scholar_username:  gchojnowski
+
+scholar_username: N7sQfAgAAAAJ&hl
+bluesky_username: gchojnowski
 github_username:  gchojnowski
 gitlab_username:  gchojnowski
 
