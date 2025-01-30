@@ -19,8 +19,10 @@ I use it a lot for cryo-EM model building. Several fascinating stories will soon
 -->
 
 ## Sequence information identification and validation in EM and MX
-Sequence assignment is a critical step in macromolecular modelling in EM and MX, and often leads to hard-to-detect errors. The availability of AI-based predicted models hasn't changed this. I have developed a suite of programs for the identification and validation of sequence information in models of macromolecules solved using EM and MX.
 
+<img src="/data/checkmysequence.jpg" style="float:left;width:500px;margin:0px;">
+
+Sequence assignment is a critical step in macromolecular modelling in EM and MX, and often leads to hard-to-detect errors. The availability of AI-based predicted models hasn't changed this. I have developed a suite of programs for the identification and validation of sequence information in models of macromolecules solved using EM and MX.
 
  - Chojnowski, "doubleHelix: nucleic acid sequence identification, assignment and validation tool for cryo-EM and crystal structure models" [Nucleic Acids Research 2023. 51(15): p. 8255–8269](https://doi.org/10.1093/nar/gkad553)
 
