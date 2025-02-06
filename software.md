@@ -50,9 +50,9 @@ Before AlphaFold2 came along, ARP/wARP was one of the leading programs for model
 
 <img src="/data/rnamasonry.jpg" style="float:left;width:380px;margin-right:30px;">
 
-Structured RNA molecules often share structural motifs. I have developed a suite of programs for analysing of existing RNA models ([RNA Bricks](https://genesilico.pl/rnabricks2/) database) and reassembling them with experimental restraints (BrickworX, RNAMasonry). 
+Structured RNA molecules often share structural motifs. I have developed a suite of programs for analysing existing RNA models ([RNA Bricks](https://genesilico.pl/rnabricks2/) database) and reassembling them with experimental restraints (BrickworX, RNAMasonry).
 
-On the left is an example of a model of a viral RNA molecule built with [RNA Masonry](https://iimcb.genesilico.pl/rnamasonry) using experimental Small Angle X-ray Scatering (SAXS) data. RNAMasonry assembles models of RNAs from large, recurrnt framents, signifficantly reducing the number of degrees of freedom. This is particularly important when building a 3D model of hundreds of nucleic acid residues from a 1D experimental SAXS curve with only a few independent data points.
+On the left is an example of a model of a viral RNA molecule built with [RNA Masonry](https://iimcb.genesilico.pl/rnamasonry) using experimental Small Angle X-ray Scatering (SAXS) data. RNAMasonry assembles models of RNAs from large, recurrent framents, signifficantly reducing the number of degrees of freedom. This is particularly important when building a 3D model of hundreds of nucleic acid residues from a 1D experimental SAXS curve with only a few independent data points.
 
 
  - Chojnowski et al. "Brickworx builds recurrent RNA and DNA structural motifs into medium-and low-resolution electron-density maps." [Acta Cryst D (2015): 697-705](https://doi.org/10.1107/S1399004715000383)
