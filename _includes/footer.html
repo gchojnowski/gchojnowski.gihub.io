@@ -16,13 +16,17 @@
             {% include icon-bluesky.html username=site.bluesky_username %}
           {% endif %}
 
-         {% if site.scholar_username %}
+          {% if site.scholar_username %}
             {% include icon-scholar.html username=site.scholar_username %}
+          {% endif %}
+
+          {% if site.gmail_username %}
+            {% include icon-email.html username=site.gmail_username %}
           {% endif %}
 
         </ul>
       </div>
-      
+
     </div>
 
   </footer>

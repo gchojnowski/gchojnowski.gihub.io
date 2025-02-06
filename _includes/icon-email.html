@@ -1,0 +1,16 @@
+<script type="text/javascript">
+  let user = "{{ include.username }}";
+  let domain = "gmail.com";
+
+  window.onload=function() {
+    var links = document.getElementsByTagName("a");
+    for (var i=0, n=links.length;i<n;i++) {
+      if (links[i].title=="contact") {
+        links[i].href='mailto:' + user + '@' + domain
+        break;
+      }
+    }
+  }
+</script>
+
+<a title='contact' href="#"><span class="icon icon--github">{% include icon-email.svg %}</span></a>
