@@ -3,7 +3,7 @@ layout: page
 title: Software
 permalink: /software/
 ---
-<!--
+
 ## Identification of protein-protein interactions using AlphaFold
 
 <img src="/data/contacts.jpg" style="float:left;width:500px;margin:0px;">
@@ -14,12 +14,11 @@ I have developed a tool based on AlphaFold2 - **gapTrick** - that helps to solve
 
 I use it a lot for cryo-EM model building. Several fascinating stories will soon appear in the [Structure stories](/models) section, stay tuned!
 
- - Chojnowski biorxiv 2025
+ - Chojnowski [bioRxiv (2025) 01.31.635911](https://doi.org/10.1101/2025.01.31.635911)
  - [https://github.com/gchojnowski/gapTrick](https://github.com/gchojnowski/gapTrick/tree/main)
 
 <br/>
 
--->
 ## Sequence information identification and validation in EM and MX
 
 <img src="/data/checkmysequence.jpg" style="float:left;width:500px;margin:0px;">
